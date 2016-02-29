@@ -1,5 +1,5 @@
 {
-    "name": "campaignchain/magnolia-magnolia",
+    "name": "campaignchain/channel-magnolia",
     "description": "Connect to a Magnolia website.",
     "keywords": ["magnolia","campaignchain"],
     "type": "campaignchain-channel",
