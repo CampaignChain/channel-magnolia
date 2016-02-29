@@ -1,0 +1,3 @@
+campaignchain_channel_magnolia_new:
+    pattern:  /channel/magnolia/new
+    defaults: { _controller: CampaignChainChannelMagnoliaBundle:Magnolia:new }
